@@ -1,4 +1,8 @@
 # MY PORTFOLIO
+
+
+![image](https://github.com/user-attachments/assets/5dd2c8da-241d-4560-8ce1-3feed96a3931)
+
 Welcome to my Personal Portfolio repository! This project showcases my work and skills developed during the Nan Mudhalvan course. It includes interactive sections to highlight my technical abilities, projects, and personal journey in the world of AI development and Computer Science.
 
 # 🚀 About the Project
